@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:62px;
+    font-weight: 900;
+}
+p{
+    font-size: 20px;
+}
+.text-color{
+    color:#e27c17;
+}
+.flex-section{
+    display: flex;
+    margin-bottom: 2in;
+}
+.button{
+    background-color: rgb(210, 66, 30);
+    text-decoration: none;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.stay-focused-div{
+    width: 60%;
+    padding-left: 10%;
+    margin-top: 4cm;
+}
+#mission-photo-div{
+        width: 50%;
+        padding-left: 2cm;
+}
+#left-side-colour{
+    border-left: 4px solid rgb(210, 66, 30);
+    line-height: 50px;
+    padding-left: 8px;
+}
+
+.box{
+    display: flex;
+    padding-left: 188px;
+}
+.all-box{
+    margin: 30px;
+    padding: 15px;
+    border-radius: 15px;
+    width: 25%;
+}
+.all-box img{
+    width: 40%;
+}
+#box-one{
+    background-color: rgb(215, 224, 224);
+}
+#box-two{
+    background-color: rgb(201, 191, 201);
+}
+#box-three{
+    background-color: rgb(145, 141, 141);
+}
+.center-text{
+    text-align: center;
+}
+
+.third-phase{
+    display: flex;
+    width: 80%;
+    margin-top: 2in;
+    padding-left: 2in;
+
+}
+
+.third-phase img{
+    width: 80%;
+    
+}
+.fourth-phase img{
+    width: 60%;
+    padding-left: 20px;
+
+}
+.fourth-phase{
+    
+    display: flex;
+    padding-left: 2in;
+    margin-top: 2in;
+    
+}
+.phase-five{
+    display: flex;
+    width:80% ;
+    padding-left: 1in;
+    
+}
+.phase-five img{
+   
+    border-radius: 30px;
+}
+footer{
+    margin-top: 2in;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.74);
+    color: white;
+    padding: 3%;
+}
+#fifth-section{
+    margin-top: 2in;
+}
+#phase-five-right{
+    margin-top: 1in;
+}
