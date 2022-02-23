@@ -33,7 +33,7 @@ p{
         padding-left: 2cm;
 }
 #left-side-colour{
-    border-left: 4px solid rgb(210, 66, 30);
+    border-left: 4px solid rgb(194, 58, 24);
     line-height: 50px;
     padding-left: 8px;
 }
@@ -47,6 +47,9 @@ p{
     padding: 15px;
     border-radius: 15px;
     width: 25%;
+}
+#web3{
+    font-size: 2cm;
 }
 .all-box img{
     width: 40%;
